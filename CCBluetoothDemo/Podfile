@@ -1,0 +1,14 @@
+platform :ios, '11.0'
+
+target 'CCBluetoothDemo' do
+  
+  pod 'BabyBluetooth'
+  pod 'Masonry'
+  
+#  pod 'FLEX'
+#  pod 'Dollar', '~> 9.0.0'
+  pod 'SVProgressHUD'
+#  pod 'AFNetworking'
+#  pod 'SDWebImage'
+end
+

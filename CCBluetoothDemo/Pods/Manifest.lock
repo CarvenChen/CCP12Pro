@@ -1,0 +1,24 @@
+PODS:
+  - BabyBluetooth (0.7.0)
+  - Masonry (1.1.0)
+  - SVProgressHUD (2.2.5)
+
+DEPENDENCIES:
+  - BabyBluetooth
+  - Masonry
+  - SVProgressHUD
+
+SPEC REPOS:
+  trunk:
+    - BabyBluetooth
+    - Masonry
+    - SVProgressHUD
+
+SPEC CHECKSUMS:
+  BabyBluetooth: d50758aecf24d4a0ab9271d69f0f116d6bee51c9
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+
+PODFILE CHECKSUM: 1971c0287d35cfa4b4d3c260af82bd53e027c855
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+module Pods_CCBluetoothDemo {
+  umbrella header "Pods-CCBluetoothDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
